@@ -16,7 +16,7 @@
 - CSS
 ---
 ## Preview
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](readme-img/image.png)
+![alt text](readme-img/image-2.png)
 ## Preview Pagamento
-![alt text](image-3.png)
+![alt text](readme-img/image-3.png)
